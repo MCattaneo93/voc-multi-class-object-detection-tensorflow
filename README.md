@@ -8,7 +8,7 @@ The VOC dataset (Visual Object Classes) is a popular dataset for object detectio
 
 ## Code Overview
 
-The main script in this repository (`main.py`) performs the following tasks:
+The main script in this repository (`FocalLoss_CNN.py`) performs the following tasks:
 
 1. **Data Preprocessing**: The script loads the VOC dataset using TensorFlow Datasets and preprocesses the images for training and testing. Preprocessing steps include resizing, normalization, and Gaussian noise reduction.
 
